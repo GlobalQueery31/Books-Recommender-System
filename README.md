@@ -1,4 +1,4 @@
-Books-Recommender-System
+## Books-Recommender-System
 The Book Recommendation System suggests books based on user input. It uses machine learning algorithms to recommend books that are similar to the selected one. The system also displays book images from Amazon.
 
 ## Features
@@ -22,9 +22,9 @@ The Book Recommendation System suggests books based on user input. It uses machi
 - Numpy
 - Pickle
 
-## Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-## Run the Streamlit app:
+### Run the Streamlit app:
 streamlit run app.py
 
