@@ -1,5 +1,5 @@
 ## Books-Recommender-System
-The Book Recommendation System suggests books based on user input. It uses machine learning algorithms to recommend books that are similar to the selected one. The system also displays book images from Amazon.
+This System suggests books based on user input. It uses machine learning algorithms to recommend books that are similar to the selected one. The system also displays book images from Amazon.
 
 ## Features
 
