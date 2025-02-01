@@ -1,5 +1,5 @@
 ## Books-Recommender-System
-This System suggests books based on user input. It uses machine learning algorithms to recommend books that are similar to the selected one. The system also displays book images from Amazon.
+This System suggests books based on user input. It uses KNN (K-Nearest Neighbors), a machine learning algorithms, to recommend books. Built with Streamlit, it provides personalized book recommendations along with cover images fetched from Amazon, helping users discover books they might enjoy.
 
 ## Features
 
